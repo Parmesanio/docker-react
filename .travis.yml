@@ -1,4 +1,6 @@
-# language: generic if "rakefile not found" error
+# Uncomment if "rakefile not found" error
+# language: generic
+
 # Need super level permissions to execute build
 sudo: required
 # Install services
